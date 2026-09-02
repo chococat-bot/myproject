@@ -29,3 +29,6 @@ st.bar_chart(
     x="Lead Time",
     y=["City Hotel", "Resort Hotel"]
 )
+
+st.header("Market Segment")
+st.image("./image/Cancel_Market_Segment.png", caption="Market Segment")
